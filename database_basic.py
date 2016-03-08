@@ -1,3 +1,4 @@
+# Basic Database Connection
 import MySQLdb
 
 db = MySQLdb.connect("localhost", "Student","","mona")
